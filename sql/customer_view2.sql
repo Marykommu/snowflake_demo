@@ -38,5 +38,4 @@ on a.campaign_sk = t2.campaign_sk
 left join t3
 on a.salesperson_sk = t3.salesperson_sk
 
-
 );
